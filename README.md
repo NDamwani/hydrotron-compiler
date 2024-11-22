@@ -7,7 +7,7 @@ This compiler is written in C++ but hopefully it will get to a point where it ca
 Requires `nasm` and `ld` on a Linux operating system.
 
 ```bash
-git clone https://github.com/orosmatthew/hydrogen-cpp
+git clone https://github.com/NDamwani/hydrotron-compiler.git
 cd hydrogen-cpp
 mkdir build
 cmake -S . -B build
